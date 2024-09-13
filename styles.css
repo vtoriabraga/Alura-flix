@@ -2,8 +2,11 @@ body {
 color: #f0edf4;
 background: rgb(65 27 109 / 78%);
 margin: 50px;
-font-family: "Chakra Petch", sans-serif;
-}
+    font-family: "Fascinate Inline", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
 
 header{
     border-bottom: solid 2px rgb(249, 238, 238);
