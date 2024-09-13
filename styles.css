@@ -2,10 +2,11 @@ body {
 color: #f0edf4;
 background: rgb(65 27 109 / 78%);
 margin: 50px;
-    font-family: "Fascinate Inline", system-ui;
-    font-weight: 400;
-    font-style: normal;
-  }  
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+font-weight: weight;
+font-style: normal;
+ }  
 
 
 header{
